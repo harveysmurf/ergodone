@@ -1,3 +1,3 @@
 # ergodone
 Ergodone QMK config
-[Layout](layout.png?raw=true)
+![Layout](layout.png?raw=true)
