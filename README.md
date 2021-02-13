@@ -1,3 +1,3 @@
 # ergodone
 Ergodone QMK config
-[Layout](harveysmurf.github.com/ergodone/layout.png)
+[Layout](github.com/harveysmurf/ergodone/blob/main/layout.png)
